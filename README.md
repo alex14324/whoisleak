@@ -16,6 +16,6 @@ $ pip install -r requirements.txt
 python whoisleak.py -u securityattack.com.br
 </pre>
 
-# Contact / Blog
+# Contact  
 https://github.com/alex14324
 https://t.me/alex14324
