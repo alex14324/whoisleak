@@ -17,7 +17,5 @@ python whoisleak.py -u securityattack.com.br
 </pre>
 
 # Contact / Blog
-<pre>
-<a href="acessoroot@live.com">Eddy Oliveira</a>
-<a href="http://securityattack.com.br">SecurityAttack</a>
-</pre>
+https://github.com/alex14324
+https://t.me/alex14324
