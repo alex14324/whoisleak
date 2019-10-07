@@ -1,0 +1,6 @@
+python-whois
+whois
+argparse
+requests
+cfscrape
+Image
